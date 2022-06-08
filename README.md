@@ -1,16 +1,38 @@
-# model_s
+# Tesla Model S
 
-A new Flutter project.
+# Tesla Model S Flutter Pro animation project
 
-## Getting Started
+Flutter Pro animation project
+Bu flutter project Tesla Model S va model Splaidga moslab chiqarilgan
+Android va iOS dastur loyiha UI dan iborat Backend yozilmagan
+Tesla API bilan Backend yozsangizlar nbo'ladi
 
-This project is a starting point for a Flutter application.
+## Loyihani yangilash
 
-A few resources to get you started if this is your first Flutter project:
+Kodni yuklab oling pub get qilib loyihani yangilab oling.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+```bash
+flutter pub get
+```
+## Ishga tushirish
+Anroid yoki iOS emulatorni ishga tushiring
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter run
+```
+## Apk qilish
+Bu flutter loyinani androidga .apk formatiga keltiramizz
+
+```bash
+flutter build apk --split-per-abi
+```
+# Ismoilovdev
+
+
+
+
+
+
+
+
+
