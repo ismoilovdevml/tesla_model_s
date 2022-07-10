@@ -11,7 +11,7 @@ Tesla API bilan Backend yozsangizlar nbo'ladi
 
 Kodni yuklab oling pub get qilib loyihani yangilab oling.
 ```bash
-git clone https://github.com/ismoilovdevml/tesla-model-x.git
+git clone https://github.com/ismoilovdevml/tesla_model_s.git
 ```
 Kodni Yangilang
 
