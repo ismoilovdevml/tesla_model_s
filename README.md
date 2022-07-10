@@ -10,6 +10,10 @@ Tesla API bilan Backend yozsangizlar nbo'ladi
 ## Loyihani yangilash
 
 Kodni yuklab oling pub get qilib loyihani yangilab oling.
+```bash
+git clone https://github.com/ismoilovdevml/tesla-model-x.git
+```
+Kodni Yangilang
 
 ```bash
 flutter pub get
@@ -26,7 +30,10 @@ Bu flutter loyinani androidga .apk formatiga keltiramizz
 ```bash
 flutter build apk --split-per-abi
 ```
-# Ismoilovdev
+### Tesla Model S Flutter pro Animation
+
+![Preview](/model-s.gif)
+
 
 
 
