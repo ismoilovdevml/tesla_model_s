@@ -32,6 +32,7 @@ flutter build apk --split-per-abi
 ```
 ### Tesla Model S Flutter pro Animation
 
+
 ![Preview](/model-s.gif)
 
 
